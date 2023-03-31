@@ -4,7 +4,7 @@ import PackageDescription
 
 let package = Package(
     name: "SwiftyVK",
-    defaultLocalization: "ru"
+    defaultLocalization: "ru",
     platforms: [
         .iOS(.v13)
     ],
